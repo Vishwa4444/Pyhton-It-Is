@@ -6,8 +6,8 @@
 # a=int(input("enter the first no:"))
 # b=int(input("enter the second number:"))
 
-# a= "vishwa"
-# b="angolkar"
+# a= "Vishwa K"
+# b="Angolkar"
 # x=y=[2,4,6]
 # x[2] =5
 # print(x)
